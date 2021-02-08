@@ -1,64 +1,64 @@
- - Compromisso temporário.
+ - Compromiso temporal.
  ¯ \ _ (ツ) _ / ¯
-"Tire essa merda do meu mestre."
+"Saca esa mierda de mi amo."
 #Nazista da gramática
 $ (init 0)
 $ (rm -rvf.)
-(\ /) <br/> (Oo) <br/> (& gt; & lt;) Bunny aprova essas alterações.
+(\ /) <br/> (Oo) <br/> (& gt; & lt;) Bunny aprueba estos cambios.
 (c) Microsoft 1988
 --Socorro
--m \ 'Ouvi dizer que você gosta de commits ... \'
+-m \ 'Escuché que te gustan los commits ... \'
 .
 ...
 /suspiro
-640K deve ser suficiente para qualquer pessoa
+640K debería ser suficiente para cualquiera
 8 ========== D
 :( :(
 : q!
 <<<<<<<<<<<<<<<<< HEAD
 ??! o que ...
-Uma correção que eu acredito, não como eu testei ou algo assim
-Um compromisso total é o que estou pensando
-Há muito tempo atrás, em uma galáxia muito distante ...
-TODO O TIPO DE COISAS
-Abandonar toda a esperança vós que entrais aqui.
-Adicionar Sandbox
-Adicionado um banner à página de administração padrão. Por favor, tenha misericórdia de mim = (
-Adicionada outra dependência
-Adicionado arquivo ausente no commit anterior
-Adicionadas algumas NullPointerExceptions - Feliz Páscoa, seus desgraçados! : D
-Tradução adicionada.
-Todas as suas bases de código pertencem a nós.
-E um commit que não sei o motivo de ...
-E se você me perguntar como estou me sentindo
-Outro inseto morde a poeira
-Outro compromisso para manter minha seqüência de CAN.
-Aparentemente funciona para mim é uma desculpa esfarrapada.
-Argh! Prestes a desistir :(
+Una solución que creo, no cómo la probé ni nada.
+Un compromiso total es lo que estoy pensando
+Hace mucho tiempo, en una galaxia muy lejana ...
+TODO TIPO DE COSAS
+Abandona toda esperanza a ti que entras aquí.
+Agregar Sandbox
+Se agregó un banner a la página de administración estándar. Por favor, ten piedad de mí = (
+Añadida otra dependencia
+Se agregó el archivo faltante en la confirmación anterior
+Se agregaron algunas excepciones NullPointerExceptions: ¡Feliz Pascua, bastardos! : D
+Traducción añadida.
+Todas sus bases de código nos pertenecen.
+Y un compromiso que no sé por qué ...
+Y si me preguntas como me siento
+Otro insecto pica el polvo
+Otro compromiso para mantener mi secuencia CAN.
+Aparentemente, para mí funciona es una excusa poco convincente.
+¡Argh! A punto de rendirse :(
 Arrrrgggg
-Em momentos como este, eu gostaria de ser um Garbage Man.
-Homem Morcego! (este commit não tem pais)
-Torne-se um programador, eles disseram. Vai ser divertido, eles disseram.
-Melhor commit de todos
-Bit Bucket está desativado. O que eu deveria fazer agora?
-Culpando o regex.
-Por obras, eu quis dizer 'não funciona'. Funciona agora ..
-COMPROMETE TODOS OS ARQUIVOS!
-Alguém pode revisar este commit, por favor?
-Verifique a próxima confirmação da mensagem.
-Chuck Norris me enviou este patch ... Não vou questioná-lo
-O código estava limpo até que o gerente pediu para foder tudo
-Compromisso comprometido
-Compromisso comprometido ....
-Cometeu algumas mudanças
-Consertando no escuro, sério, quem matou meu poder !?
-Comprometendo-se de acordo com a profecia.
-Concluído sem bugs ...
-Desenvolvimento contínuo ...
-Falha na cópia da massa. ainda tinha um em vez de um
-Copiar e colar para corrigir o copiar e colar anterior
-Erros corrigidos
-Porcaria. Esta noite é a noite da invasão e já estou atrasado.
+En momentos como este, me gustaría ser un basurero.
+¡Hombre murciélago! (este compromiso no tiene padres)
+Conviértete en programador, dijeron. Será divertido, dijeron.
+El mejor compromiso de todos
+Bit Bucket está deshabilitado. ¿Qué debería hacer ahora?
+Culpar a la expresión regular.
+Por obras, quise decir 'no funciona'. Ahora funciona ..
+¡COMPROMETE TODOS LOS ARCHIVOS!
+¿Alguien puede revisar este compromiso, por favor?
+Consulta la siguiente confirmación del mensaje.
+Chuck Norris me envió este parche ... no lo cuestionaré
+El código estaba limpio hasta que el gerente pidió joder todo
+Compromiso comprometido
+Compromiso comprometido ...
+Hizo algunos cambios
+Arreglandolo en la oscuridad, en serio, ¿¡quién mató mi poder !?
+Compromiso según la profecía.
+Completado sin errores ...
+Desarrollo continuo ...
+Copia de la misa fallida. todavía tenía uno en lugar de uno
+Copiar y pegar para corregir la copia y pegar anteriores
+Errores arreglados
+Inmundicia. Esta noche es la noche de la invasión y ya llego tarde.
 LIDE COM ISSO
 DNS_PROBE_FINISHED_NXDOMAIN
 Derp
@@ -66,45 +66,45 @@ Derp procurar / substituir merda
 Derp, redirecionamento de ativos no modo dev
 Derp. Corrigir renomeação de postagem constante ausente
 Cascos Derpy
-Faça as coisas melhor, mais rápido, mais forte
-Alguém leu isso? Estarei no café do outro lado da rua.
-Não funciona.
-Isto funciona
-Não me pergunte, também não tenho ideia de por que isso funciona
-Não empurre este commit
-Não me diga que você é muito cego para ver
-Feito, a quem funde, boa sorte.
-Nem tente refatorá-lo.
-Não mexa com o vodu
-Ovos de pascoa
-Hot Shit ou Total Bollocks
+Haz las cosas mejor, más rápido, más fuertes
+¿Alguien ha leído esto? Estaré en el café al otro lado de la calle.
+No funciona.
+Esto funciona
+No me preguntes, tampoco tengo idea de por qué funciona esto.
+No empujes este compromiso
+No me digas que eres demasiado ciego para ver
+Hecho, quien se fusione, buena suerte.
+Ni siquiera intentes refactorizarlo.
+No te metas con el vudú
+Huevos de Pascua
+Mierda caliente o tonterías totales
 Errare humanum est.
-ENCONTROU O CÓDIGO
-SÉRIO.
+ENCUENTRA EL CÓDIGO
+DE VERDAD.
 PORRA DE XUPPERNAMEX
-Alimentação. Vocês. Coisa. Não há tempo.
-Confirmação final, pronta para marcação
-Dedos cruzados!
-Acabou de acariciar.
-Primeiro sangue
-Corrigir erro de carta de carregamento de PC
-Corrigir string [objeto Object] codificada (obrigado!)
-Consertar minha estupidez
-Corrija as correções
-Bug corrigido
-Corrigido um bug porque o XNAMEX disse para
-Corrigido um bug no NoteLineCount ... não é sério ...
-Corrigido um pequeno bug ...
-Erros de compilação corrigidos
-Erros corrigidos
-Erro corrigido
-Corrigido para que o código seja compilado
-Consertou alguma merda
-Corrigido o build.
-Consertou a porra do #XNUMX!
-Bug desnecessário corrigido.
-Tudo consertado.
-Consertou o que estava quebrado.
+Alimentación. Usted. Cosa. No hay tiempo.
+Confirmación final, lista para reservar
+¡Dedos cruzados!
+Acabo de terminar de acariciar.
+Primera sangre
+Solucionar el error del gráfico de carga de la PC
+Corrija la cadena [Objeto objeto] codificada (¡gracias!)
+Arregla mi estupidez
+Correcciones correctas
+Error arreglado
+Se corrigió un error porque XNAMEX decía que
+Se corrigió un error en NoteLineCount ... no es grave ...
+Se corrigió un pequeño error ...
+Errores de compilación corregidos
+Errores arreglados
+Error fijo
+Corregido para que se compile el código
+Arreglado algo de mierda
+Arreglado el build.
+¡Arreglado el puto #XNUMX!
+Error innecesario corregido.
+Todo arreglado.
+Arreglado lo que estaba roto.
 Corrigindo o bug do XNAMEX.
 Corrigindo bugs do XNAMEX.
 Por grande justiça.
@@ -132,143 +132,143 @@ Herping the derp
 Herping the derp derp (erro bobo de escopo)
 Herping the maldito derp aqui e agora.
 Herpy dooves.
-Esconda esses navs, boi!
-I CAN HAZ COMMENTZ.
-I CAN HAZ PYTHON, I CAN HAZ INDENTS
-Eu __ uma palavra
-Eu sou a Raiz. Nós somos a raiz.
-Eu sou spartacus
-Eu sou ainda mais estúpido do que pensei
-sinto muito
-Eu sou o maior desenvolvedor de javascript do mundo.
-Não acredito que demorou tanto para consertar isso.
-Não acredito que demorou tanto para escrever um teste para isso.
-Eu fiz só pela zuera!
-Eu não acredito nisso
-Eu não sou pago o suficiente por essa merda.
-Eu não dou a mínima para a minha reputação
-Não sei o que diabos estava pensando.
-Não sei o que essas mudanças devem realizar, mas alguém me disse para fazê-las.
-Não sei por quê. Apenas siga em frente.
-Eu não sei o que estou fazendo
-Eu esperava algo diferente.
-Eu esqueci de cometer ... Então aqui está.
-Eu tomei uma xícara de chá e agora está consertado
-Eu odeio essa porra de linguagem.
-Não tenho ideia do que estou fazendo aqui.
-Sinceramente, gostaria de lembrar o que está acontecendo aqui ...
-Eu imediatamente me arrependo desse commit.
-Acabei de avaliar o código aleatório em meu console
-Eu só quero te dizer como estou me sentindo
-Eu sei o que estou fazendo. Confie em mim.
-Eu sei, eu sei, não é assim que devo fazer, mas não consigo pensar em algo melhor.
-Eu cometi um pequeno erro
-Devo gostar de me torturar
-Eu devia estar bêbado.
-Devo dormir ... está funcionando ... em apenas três horas ...
-Eu realmente deveria ter cometido isso quando terminei ...
-Eu deveria conseguir um aumento por isso.
-Eu deveria ter tido um V8 esta manhã.
-Acho que agora funciona
-Transformei um bug em um recurso. Depois de aprender como, você nunca vai esquecer
-Disseram-me para deixar como está, mas eu tenho uma coisa chamada TOC, você vê
-Eu estava errado...
-Não vou me desculpar pela arte.
-Eu preferiria jogar SC2.
-ESTOU EMPURRANDO.
-Vou explicar isso quando estiver sóbrio .. ou reverter
-Vou explicar quando você for mais velho!
-Acho que isso pode começar a nos causar problemas em breve ou nunca.
-eu sou humano
-eu estou com fome
-Eu sou apenas um grunhido. Não me culpe por este terrível PoS.
-Eu sinto Muito.
-Eu sou muito foo para este bar
-Estou muito velho para essa merda!
-Estou totalmente adicionando isso para uma vitória épica. +300
+¡Esconde esos barcos, buey!
+PUEDO HAZ COMMENTZ.
+PUEDO HAZ PYTHON, PUEDO HAZ INDENTS
+Yo __ una palabra
+Yo soy la Raíz. Somos la raíz.
+Soy espartaco
+Soy incluso más estúpido de lo que pensaba
+lo siento mucho
+Soy el desarrollador de JavaScript más grande del mundo.
+No puedo creer que haya tardado tanto en arreglar esto.
+No puedo creer que haya tardado tanto en escribir una prueba para esto.
+¡Lo hice por el lulz!
+Yo no creo en eso
+No me pagan lo suficiente por esta mierda.
+Me importa una mierda mi reputación
+No sé qué diablos estaba pensando.
+No sé qué se supone que deben lograr estos cambios, pero alguien me dijo que los hiciera.
+No sé por qué. Simplemente seguir adelante.
+No se que estoy haciendo
+Esperaba algo diferente.
+Olvidé comprometerme ... Así que aquí está.
+Tomé una taza de té y ahora está arreglado
+Odio ese maldito idioma.
+No tengo idea de lo que estoy haciendo aquí.
+Sinceramente, me gustaría recordar lo que está pasando aquí ...
+Inmediatamente lamento este compromiso.
+Acabo de evaluar el código aleatorio en mi consola.
+Solo quiero decirte como me siento
+Sé lo que estoy haciendo. Confía en mí.
+Lo sé, lo sé, no es así como debería hacerlo, pero no puedo pensar en nada mejor.
+Cometí un pequeño error
+Me debe gustar torturarme
+Debería haber estado borracho.
+Debo dormir ... está funcionando ... en solo tres horas ...
+Realmente debería haber hecho eso cuando terminé ...
+Debería conseguir un aumento por eso.
+Debería haber tenido un V8 esta mañana.
+Creo que funciona ahora
+Convertí un error en un recurso. Una vez que aprenda a hacerlo, nunca lo olvidará
+Me dijeron que lo dejara como está, pero tengo algo que se llama TOC.
+Yo estaba equivocado...
+No me disculparé por el arte.
+Preferiría jugar SC2.
+ESTOY EMPUJANDO.
+Explicaré esto cuando esté sobrio ... o al revés
+¡Te lo explicaré cuando seas mayor!
+Creo que esto puede comenzar a causarnos problemas pronto o nunca.
+Soy humano
+tengo hambre
+Solo soy un gruñido. No me culpes por este terrible punto de venta.
+Lo siento mucho.
+Soy demasiado foo para este bar
+¡Soy demasiado mayor para esta mierda!
+Estoy agregando eso totalmente a una victoria épica. +300
 ID: Erro 10T
 IEize
-Se for hacky e você souber disso, bata palmas (clap clap)!
-Se é estúpido e funciona, não é estúpido
-Melhorando a correção
-Insira a mensagem de confirmação aqui
-Por dentro, nós dois sabemos o que está acontecendo
-Existe uma conquista para isso?
-Existe um prêmio para isso?
-Problema nº XNUM10X agora é o problema nº XNUM30X
-Ele compila! 50 pontos para a Grifinória.
-Ele compila! Enviá-lo!
-Ele compila \: D /
-Ele apenas compila todas as tentativas de XNUM2,5X ... boa sorte.
-Foi o melhor dos tempos, foi o pior dos tempos
-Funcionou para mim ...
-Funciona no meu computador
-Funciona!
-Seria bom se os erros de tipo fizessem com que o compilador emitisse um erro de tipo
-É 2016; por que estamos usando ColdFusion ?!
-Está funcionando!
-Está ficando difícil acompanhar a merda que destruí
-É possível! você pode transformar um bloco de código de 50 linhas em apenas 3 linhas. Veja como
-É segredo!
-É hora de ir para casa
-Apenas me comprometendo para que eu possa ir para casa
-Pare de ler isso por um tempo, ok ..
-Desembarcou.
-DA ÚLTIMA vez, XNAMEX, / dev / urandom NÃO É um gerador de nome de variável ...
-RI MUITO!
-MUITAS mudanças. período
-A última vez que disse que funciona? Eu estava brincando. Experimente isso.
-Localizando os gigapixels necessários para renderizar ...
-Bloqueie os S-foils na posição de ataque
-Gosta de codificação? aqui está a razão secreta porque
-Com pouca cafeína, perdoe o estilo de codificação
-BIFURCAÇÃO DE MOAR
-Feito para compilar ...
-Grande conserto.
-Certifique-se de que está em dia com o seu Deus antes de tentar fundir isto
-Faça com que funcione em 90% dos casos. 3:30.
-Merge pull my finger request
-Merge pull request # 67 de Lazersmoke / fix-andys-shit Fix andys shit
-Mesclando 'WIP: Não mesclar esta ramificação' no mestre
-Mesclando a mesclagem
-Pequenas atualizações
-Misc. Conserta
-Mais ignorar
-Movi algo para algum lugar ... boa noite ...
-Foi mal
-Meu chefe me forçou a construir esse recurso ... Puta merda.
-NOJIRA: Sem choro
-NSA backdoor - ignorar
-Nunca execute este commit como root
-Nunca antes um pequeno erro de digitação como este causou tantos danos.
-Nunca vou desistir de você
-Nunca vou dar, nunca vou dar
-Nunca vou te decepcionar
-Nunca vou te fazer chorar
-Nunca vou correr e te abandonar
-Nunca vou dizer adeus
-Nunca vou contar uma mentira e te machucar
-Da próxima vez que alguém perguntar a você como consertar um loop infinito, lembre-se deste commit
-Nitpicking sobre métodos de alfabetização, coisa menor de TOC
-Nenhuma mudança após este ponto.
-Nenhuma mudança feita
-Sem tempo para se comprometer .. Meu povo precisa de mim!
-Ninguém jamais havia criado uma função como essa antes.
-Nenhum conflito, hoje foi um bom dia.
-Não sei porque
-Nada para ver aqui, siga em frente
-Agora adicionado delete de verdade
-Agora são todos microsserviços, espero que a moda persista.
-Agora dizemos que seu navegador é péssimo em sua língua nativa.
-Mensagem obrigatória de placeholder commit
-Ah não
-Está bem
-Ok, 5 da manhã, funciona. Sério.
-Não se funde simplesmente no mestre
-Um pequeno espaço em branco obtém seu próprio commit! Oh, a vida é tão errática!
-Mais uma vez, mas com sentimento.
-Só Tom Cruise sabe por quê.
-Fora de férias ... NÃO SE ATREVE A ME CHAMAR.
+Si es hacky y lo sabes, ¡aplaude, aplaude!
+Si es estúpido y funciona, no es estúpido
+Mejorando la corrección
+Ingrese el mensaje de confirmación aquí
+Por dentro, ambos sabemos lo que está pasando
+¿Hay algún logro para eso?
+¿Hay algún premio por eso?
+El problema # XNUM10X ahora es el problema # XNUM30X
+¡Compila! 50 puntos para Gryffindor.
+¡Compila! ¡Mándalo!
+Compila \: D /
+Simplemente compila todos los intentos de XNUM2.5X ... buena suerte.
+Fue el mejor de los tiempos, fue el peor de los tiempos
+Funcionó para mí ...
+Funciona en mi computadora
+¡Funciona!
+Sería bueno si los errores de tipo hicieran que el compilador emitiera un error de tipo
+Es 2016; ¿Por qué utilizamos ColdFusion?
+¡Esta funcionando!
+Se está poniendo difícil seguir el ritmo de la mierda que destruí
+¡Es posible! puede transformar un bloque de código de 50 líneas en solo 3 líneas. ver cómo
+¡Es secreto!
+Es hora de irse a casa
+Solo comprometiéndome para poder ir a casa
+Deja de leer esto por un tiempo, ok ..
+Aterrizado.
+ÚLTIMA VEZ, XNAMEX, / dev / urandom NO ES un generador de nombre de variable ...
+¡ME REÍ MUCHO!
+Muchos cambios. período
+¿La última vez que dijiste que funciona? Estaba bromeando. Prueba esto.
+Encontrar los gigapíxeles necesarios para renderizar ...
+Bloquear las láminas S en la posición de ataque
+¿Te gusta codificar? aquí está la razón secreta por la cual
+Con poca cafeína, perdona el estilo de codificación
+BIFURCACIÓN DE MOAR
+Hecho para compilar ...
+Gran solución.
+Asegúrese de estar al día con su Dios antes de intentar fusionar este
+Haz que funcione en el 90% de los casos. 3:30.
+Fusionar, tirar de mi solicitud de dedo
+Fusionar solicitud de extracción n. ° 67 de Lazersmoke / arreglar-andys-shit Arreglar la mierda de Andy
+Fusionar 'WIP: no fusionar esta rama' en el maestro
+Fusionando la fusión
+Actualizaciones menores
+Misc. Arreglos
+Ignorar más
+Moví algo a alguna parte ... buenas noches ...
+Fue mal
+Mi jefe me obligó a construir este recurso ... Mierda.
+NOJIRA: No llores
+Puerta trasera de la NSA: ignorar
+Nunca realice esta confirmación como root
+Nunca antes un pequeño error tipográfico como este había causado tanto daño.
+Nunca me rendiré contigo
+Nunca daré, nunca daré
+Nunca te dejaré caer
+Nunca te haré llorar
+Nunca correré y te dejaré
+Nunca diré adiós
+Nunca diré una mentira y te lastimaré
+La próxima vez que alguien te pregunte cómo arreglar un bucle infinito, recuerda esta confirmación
+Quejarse de los métodos de alfabetización, menos que el TOC
+No hay cambios después de este punto.
+No se realizaron cambios
+No hay tiempo para comprometerme ... ¡Mi gente me necesita!
+Nadie había creado un rol como este antes.
+Sin conflicto, hoy fue un buen día.
+No sé por qué
+Nada que ver aquí, sigue adelante
+Ahora agregado realmente eliminar
+Ahora son todos microservicios, espero que la moda persista.
+Ahora decimos que su navegador apesta en su idioma nativo.
+Mensaje de confirmación de marcador de posición obligatorio
+Ah no
+Está bien
+De acuerdo, a las 5 de la mañana, funciona. Seriamente.
+No te fusiones con el maestro
+¡Un pequeño espacio en blanco tiene su propio compromiso! ¡Oh, la vida es tan errática!
+De nuevo, pero con sentimiento.
+Solo Tom Cruise sabe por qué.
+Fuera de vacaciones ... NO TE ATREVES A LLAMARME.
 PEBKAC
 Peopleware Capítulo 8: "Você nunca faz nada por aqui entre 9 e 5 anos."
 Porco
