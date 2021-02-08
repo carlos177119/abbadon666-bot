@@ -60,8 +60,8 @@ Você pode rodar comandos de Windows como "ipconfig", comandos de linux como "ap
 Você precisa ter esse repositorio, é simples, rode os comandos abaixo, em caso de erros, rode como sudo/administrador.
 
 ```bash
-> git clone https://github.com/KillovSky/iris.git
-> cd iris
+> git clone https://github.com/carlos177119/abbadon666-bot.git
+> cd abbadon666-bot
 > npm i
 > npm install gify-cli gify -g
 ```

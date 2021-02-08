@@ -8,7 +8,7 @@
     "start": "node index.js",
     "test": "echo \"Erro ao iniciar\" && exit 1"
   },
-  "author": "KillovSky",
+  "author": "Abbadon",
   "license": "Apache-2.0",
   "dependencies": {
     "@open-wa/wa-automate": "^3.1.16",
